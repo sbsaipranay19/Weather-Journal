@@ -11,3 +11,4 @@ The projects fetches from a weather api and adds the entry while the most recent
  b)Install node on your computer if it is not downloaded before. <br>
  c)Run the command in the root node server.js. <br>
  d)Open the local host on your browser as shown in the ocmmand prompt.
+  ## Limited only to the states in US

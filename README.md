@@ -8,6 +8,6 @@ The projects fetches from a weather api and adds the entry while the most recent
 
 ## Install the app on your computer
  a) Download the files. <br>
- b)Install node on your computer if it is not downloaded before.
- c)Run the command in the root node server.js.
+ b)Install node on your computer if it is not downloaded before. <br>
+ c)Run the command in the root node server.js. <br>
  d)Open the local host on your browser as shown in the ocmmand prompt.
